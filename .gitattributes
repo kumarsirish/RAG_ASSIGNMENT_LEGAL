@@ -1,0 +1,4 @@
+corpus/contractnli filter=lfs diff=lfs merge=lfs -text
+corpus/cuad filter=lfs diff=lfs merge=lfs -text
+corpus/maud filter=lfs diff=lfs merge=lfs -text
+corpus/privacy_qa filter=lfs diff=lfs merge=lfs -text
