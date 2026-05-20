@@ -1,0 +1,15 @@
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.2.0
+
+datasets>=3.0.0
+pyarrow>=17.0.0
+pandas==2.2.2
+
+ragas>=0.2.0
+rouge-score>=0.1.2
+
+openai>=1.0.0
+chromadb>=0.5.0
+tiktoken>=0.7.0
+numpy>=1.26.0
