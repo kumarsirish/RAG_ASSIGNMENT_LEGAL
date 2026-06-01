@@ -1,22 +1,20 @@
-# LangChain (pulls correct matching core + community + openai)
 langchain
-
-# Vector DBs
+langchain-core
+langchain-community
+langchain-openai
+langchain-qdrant
+langchain-text-splitters
 chromadb
 qdrant-client
-
-# Embeddings / Models
 sentence-transformers
 tiktoken
 numpy
-
-# Data / Evaluation
 datasets
 pyarrow
 pandas==2.2.2
 ragas
-rouge-score
-
-# API Clients
+rouge_score
+scikit-learn
 openai
 requests==2.32.4
+nltk
