@@ -4,7 +4,6 @@ langchain-community
 langchain-ollama
 langchain-qdrant
 langchain-text-splitters
-chromadb
 qdrant-client
 sentence-transformers
 tiktoken
@@ -15,5 +14,6 @@ pandas
 ragas
 rouge_score
 scikit-learn
+openai
 requests
 nltk
